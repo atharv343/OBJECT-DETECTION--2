@@ -1,0 +1,21 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-image: url("a.jpg");
+}
+.heading{
+    width: 100%;
+    font-size: large;
+    margin-top: 0;
+}
+.link{
+    background-color: black;
+    border-radius: 40px;
+    width: 100px;
+    float: right;
+    font-size: 20;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px grey;
+}

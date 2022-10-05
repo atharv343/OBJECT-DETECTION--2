@@ -1,0 +1,25 @@
+.header{
+    color: black;
+    font-size: 45px;
+    box-shadow: 5px 5px 5px rgb(248, 106, 106);
+    width:100%;
+  margin-top:0;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: url("a.jpg");
+}
+
+.link {
+    font-size: 40px;
+    background: aquamarine;
+    border-radius: 100px;
+    width: 400px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration:overline;
+}
